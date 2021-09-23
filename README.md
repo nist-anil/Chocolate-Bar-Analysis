@@ -8,9 +8,9 @@ Chocolate is one of the most popular candies in the world. Each year, residents 
 These ratings were compiled by Brady Brelinski, Founding Member of the Manhattan Chocolate Society. For up-to-date information, as well as additional content (including interviews with craft chocolate makers), please see his website: Flavors of Cacao
 
 # Inspiration
-Where are the best cocoa beans grown?
-Which countries produce the highest-rated bars?
-What’s the relationship between cocoa solids percentage and rating?
+* Where are the best cocoa beans grown?
+* Which countries produce the highest-rated bars?
+* What’s the relationship between cocoa solids percentage and rating?
 
 # Key Findings
 ## The key findings from the detailed analysis are mentioned below:
